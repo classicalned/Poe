@@ -1,0 +1,187 @@
+{
+  "game": "POE",
+  "case": 1,
+  "title": "The Beating Heart",
+  "steps": [
+    {
+      "number": 1,
+      "location": "crime scene",
+      "hints": [
+        "Click the loose Floorboard",
+        "Click on the items",
+        "Click on the Heart and Note and use your phone on the QR code"
+      ]
+    },
+    {
+      "number": 2,
+      "location": "what to do with the heart",
+      "hints": [
+        "The heart needs to go to a hospital",
+        "Search the database for hospitals/Medical and check them out",
+        "The heart has to go to St Arthelais Memorial"
+      ]
+    },
+    {
+      "number": 3,
+      "location": "St Arthelais",
+      "hints": [
+        "It's awfully busy here",
+        "Ask about the doctors",
+        "Ask why they are busy, and then ask after the doctors"
+      ]
+    },
+    {
+      "number": 4,
+      "location": "The doctors",
+      "hints": [
+        "Three doctors are missing. Find out where",
+        "Search for Fine, Casker, and Polipo in the database",
+        "Go to Eric Polipo's house"
+      ]
+    },
+    {
+      "number": 5,
+      "location": "Dr Polipo",
+      "hints": [
+        "Answer her question",
+        "Say \"No\"",
+        "Ask where Eric is"
+      ]
+    },
+    {
+      "number": 6,
+      "location": "What to do after Dr Polipo's House",
+      "hints": [
+        "She mentioned jewelry...you have a search engine",
+        "Search jewelry in the police database",
+        "Go to Finesse Jewelers"
+      ]
+    },
+    {
+      "number": 7,
+      "location": "Finesse",
+      "hints": [
+        "It's a simple question",
+        "Who are you here about?",
+        "Say No when she asks, and then ask about Eric Polipo. She will tell you the bank he uses"
+      ]
+    },
+    {
+      "number": 8,
+      "location": "After Finesse",
+      "hints": [
+        "Finesse told you the bank name",
+        "Whoa, that's a lot of locations, too many to find in person...good thing you have that note",
+        "Search for Bank of Allantown on X-plore, and enter the login details Cheryl Polipo gave you"
+      ]
+    },
+    {
+      "number": 9,
+      "location": "Bank of Allantown online",
+      "hints": [
+        "What's with all those purchases?",
+        "There is a list of purchases made; investigate each one",
+        "Go to MedSur+"
+      ]
+    },
+    {
+      "number": 10,
+      "location": "MedSur+",
+      "hints": [
+        "Leon seems knowledgeable",
+        "Ask specific questions about the case",
+        "Ask if Dr Polipo has been there. He will tell you about a storage locker on Taler Lane"
+      ]
+    },
+    {
+      "number": 11,
+      "location": "Taler Lane Clue",
+      "hints": [
+        "Where would you find Taler Lane?",
+        "Use the Police Database",
+        "Search for Taler Lane in the database, add Concealed Storage to the map, and travel to it"
+      ]
+    },
+    {
+      "number": 12,
+      "location": "ConSealed",
+      "hints": [
+        "Do you have a warrant?",
+        "What good is an empty locker?",
+        "Say No to the warrant, ask about Dr Polipo, and ask why the locker is empty"
+      ]
+    },
+    {
+      "number": 13,
+      "location": "After Concealed",
+      "hints": [
+        "Who would have a purple van? And how would you find out?",
+        "X-Plore is your friend here",
+        "Search X-Plore for moving companies. Check out their websites. Usher has a purple theme. Search Usher in the Police Database and add all three locations to the map. Alternatively, you can search for moving companies in the Police Database and go from there...but you miss the fun websites"
+      ]
+    },
+    {
+      "number": 14,
+      "location": "Usher Moving",
+      "hints": [
+        "Don't give up",
+        "They all point one way",
+        "Travel to the Usher (east location)"
+      ]
+    },
+    {
+      "number": 15,
+      "location": "Usher Moving East",
+      "hints": [
+        "What does she know?",
+        "Ask the obvious question",
+        "Ask Maddy about Dr Polipo, and she will tell you the van is parked on 133 Miller"
+      ]
+    },
+    {
+      "number": 16,
+      "location": "After Usher",
+      "hints": [
+        "You have an address",
+        "Where would you look for this?",
+        "Search 133 Miller in the database and go to it"
+      ]
+    },
+    {
+      "number": 17,
+      "location": "133 Miller",
+      "hints": [
+        "That is one ugly truck",
+        "What does she know about it?",
+        "Ask her about the moving van; she will give you the address 302 Bush St"
+      ]
+    },
+    {
+      "number": 18,
+      "location": "After 133 Miller",
+      "hints": [
+        "Bush Street?",
+        "If only you had some means of looking up a location",
+        "Search 302 Bush in the database and go to it"
+      ]
+    },
+    {
+      "number": 19,
+      "location": "302 Bush",
+      "hints": [
+        "Just follow the directions",
+        "",
+        ""
+      ]
+    },
+    {
+      "number": 20,
+      "location": "Back at the desk",
+      "hints": [
+        "Who doesn't love a present?",
+        "Didn't the chief mention something about the evidence box?",
+        "Go to the Evidence Locker and click on both the Note and the Bottle"
+      ]
+    }
+  ]
+}
