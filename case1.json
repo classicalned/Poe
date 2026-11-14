@@ -153,14 +153,14 @@
       "hints": [
         "That is one ugly truck",
         "What does she know about it?",
-        "Ask her about the moving van; she will give you the address 302 Bush St"
+        "Ask her about the moving van; she will give you the address 302 Bush Ave"
       ]
     },
     {
       "number": 18,
       "location": "After 133 Miller",
       "hints": [
-        "Bush Street?",
+        "Bush Avenue",
         "If only you had some means of looking up a location",
         "Search 302 Bush in the database and go to it"
       ]
