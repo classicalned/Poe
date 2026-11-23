@@ -1,0 +1,21 @@
+{
+  "game": "POE",
+  "case": 2,
+  "title": "In Pace Requiescat",
+  "steps": [
+    {"number":1,"location":"Where to start...","hints":["Someone's finally awake ","Where is Mortimer?","Add St Arthelais to your map. Ask for him at the front desk and in the recovery ward."]},
+    {"number":2,"location":"Mortimer Geier","hints":["How's he doing?","What possibly happened?","Ask him what happened. Ask about the surgery."]},
+    {"number":3,"location":"Outpatient ","hints":["What goes on here","a May December relationship?","Ask About Mortimer Geier, she'll tell you about his wife picking him up.  You should go meet her."]},
+    {"number":4,"location":"The Geier Residence","hints":["this cant be right","Does she look like a gold digger","Ask about the person who picked him up.  She will describe what she was wearing"]},
+    {"number":5,"location":"Finding the Uniform","hints":["Is uniform the right word? and where would you find such a thing?","One of these things is not like the other...online","Look up nurse in x-plore.  notice that the Perverse Imp is listed.  Travel there"]},
+    {"number":6,"location":"The Perverse Imp","hints":["A costume?","You just gotta be honest with her.","Ask Marie if she has sold a costume. She will ask if its about a case, say yes."]},
+    {"number":7,"location":"Marie's Information","hints":["what did they leave","Yes...but specifically what did they leave","mention the Amontillado, then say ys whe she offers help.  She mentions three people and gives a description.  She also mentions 2 people in town worth talking to Damian Hunter and her husband Chris"]},
+    {"number":8,"location":"The Purple Curtain part I","hints":["ys but what does she look like?","Marie was fairly specific","Tell him you are looking for woman with red hair and green eyes.  He will do some digging and ask you to return later."]},
+    {"number":9,"location":"The Purple Curtain part II","hints":["Why are you still here","Leave....and then come back","You have to leave and then come back.  When you return just reply to him.  He gives you the name Bonnie Abbott and a suggestion on where to look for her."]},
+    {"number":10,"location":"Bonnie Abbott","hints":["Damian mentioned something about a different club...","Ask around about Bonnie...by name","Do to the database search for club.  2 of them you can visit, but only Flirt and Flutter has heard of her.  Vivienne will give you her photo"]},
+    {"number":11,"location":"Volumes of Forgotten Lore","hints":["The man knows a lot. ask him","What is this case all about","Ask about Amontillado. Chris will give you a breakdown of the plot and mention two plot points"]},
+    {"number":12,"location":"Amontillado","hints":["He mentioned two things there relevant to the cask","Fortunato's and a wall were mentioned","Ask chris about the wall, he will mentioned needing supplies.  Check the two places in town that might carry them."]},
+    {"number":13,"location":"The Oblong Box","hints":["Has he sold anything to anyone we may know?","A picture is worth 1000 words","Show Rusty the photo of Bonnie (clicking on it will show it to him). he'll give you an invoice"]},
+    {"number":14,"location":"Final address","hints":["Where did you see an address?","Where do you look up an address?","The invoice says 187 Lustau Ln.  Enter that into the database.  Navigate to it on the map.  Click on where you think you should be walking and it will take you to the end of the case"]}
+  ]
+}
